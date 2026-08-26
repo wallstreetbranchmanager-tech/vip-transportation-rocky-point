@@ -1,2 +1,5 @@
-# vip-transportation-rocky-point
-100k VIP Transportation of Rocky Point - private Long Island car service site
+# VIP Transportation of Rocky Point
+
+Live: https://vip-transportation-rocky-point.vercel.app
+
+Private airport transfers & car service. Just Bob. 631-655-5694
